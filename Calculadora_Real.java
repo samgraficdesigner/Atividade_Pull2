@@ -1,6 +1,5 @@
 /*
- * Modificação 01
- * Modificação 02 - Pull Request via Github
+ * Modificação 01 - Pull Request via Github
  */
 package calculadoraswing;
 
